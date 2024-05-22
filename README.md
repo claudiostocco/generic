@@ -8,4 +8,4 @@ This is a generic repository for storing comments, ideias and other things.
 
 
 ## Cotações
-- [Cotação Notebook] (https://github.com/claudiostocco/generic/blob/main/cotacao_nb.md)
+- [Cotação Notebook](https://github.com/claudiostocco/generic/blob/main/cotacao_nb.md)
