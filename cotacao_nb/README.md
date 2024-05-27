@@ -12,10 +12,12 @@ Todos os modelos são de entrada.
 - [lenovo-ideapad-1i-i3-1215u-4gb-ram-ssd-256gb-nvme-15-6-polegadas-windows-11](https://www.kabum.com.br/produto/508680/notebook-lenovo-ideapad-1i-i3-1215u-4gb-ram-ssd-256gb-nvme-15-6-polegadas-windows-11-82vy000tbr)
 - [Notebook Asus Vivobook X1502za Intel Core I5 12450h 8gb Ram 256gb SSD Windows 11 Tela 15,6](https://www.kabum.com.br/produto/515949/notebook-asus-vivobook-x1502za-intel-core-i5-12450h-8gb-ram-256gb-ssd-windows-11-tela-15-6-fhd-blue-ej1755w)
 - [Notebook Samsung Galaxy Book2 Intel Core i5-1235U, 8GB RAM, SSD 256GB, 15.6" Full HD, Windows 11 Home, Grafite](https://www.kabum.com.br/produto/520072/notebook-samsung-galaxy-book2-intel-core-i5-1235u-8gb-ram-ssd-256gb-15-6-full-hd-windows-11-home-grafite-np550xed-kf2br)
+- [Notebook Acer Aspire 5, Intel Core I5 12ªG, 8GB, SSD 256GB, Tela 15.6 Full HD, Windows 11 Home](https://www.kabum.com.br/produto/483434/notebook-acer-aspire-5-intel-core-i5-12-g-8gb-ssd-256gb-tela-15-6-full-hd-windows-11-home-a515-57-53z5)
 
 ### Com Linux
 - [Notebook Asus Vivobook Go 15 E1504fa Amd Ryzen™ 5 7520u 8GB Ram 256gb SSD Linux 15,6"](https://www.kabum.com.br/produto/579676/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-linux-keepos-15-60-fhd-mixed-black-nj731)
 - [Notebook ASUS Vivobook X1502ZA-EJ1761 Intel Core i5 12450H 2 GHz 8Gb Ram 256Gb SSD Linux](https://www.kabum.com.br/produto/510065/notebook-asus-vivobook-x1502za-ej1761-intel-core-i5-12450h-2-ghz-8gb-ram-256gb-ssd-linux-keepos-15-60-led-full-hd-intel-uhd-graphics-prata)
+- [Notebook Acer Aspire 5, Intel Core I5 12ª Gen, 8GB, SSD 256GB, Tela 15.6'' Full HD](https://www.kabum.com.br/produto/483227/notebook-acer-aspire-5-intel-core-i5-12-gen-8gb-ssd-256gb-tela-15-6-full-hd-a515-57-58w1)
 
 
 ### HDs SSDs - Para para melhorar a performance de Notebooks antigos
