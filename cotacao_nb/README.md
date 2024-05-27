@@ -22,6 +22,6 @@ Todos os modelos são de entrada.
 
 ### HDs SSDs - Para para melhorar a performance de Notebooks antigos
 
-- [SSD 128gb - sata - leitura-570mb/s - gravacao-500mb/s](https://www.kabum.com.br/produto/483834/ssd-128gb-kbm-gaming-sata-iii-leitura-570-mb-s-gravacao-500-mb-s-kgssd100128)
-- [SSD 240gb - sata - leitura-535mb/s - gravacao-500mb/s](https://www.kabum.com.br/produto/115051/ssd-240gb-pny-cs900-sata-leitura-535mb-s-e-gravacao-500mb-s-ssd7cs900-240-rb)
+- [SSD 128GB - sata - leitura-570mb/s - gravacao-500mb/s](https://www.kabum.com.br/produto/483834/ssd-128gb-kbm-gaming-sata-iii-leitura-570-mb-s-gravacao-500-mb-s-kgssd100128)
+- [SSD 240GB Adata SU650, SATA, Leitura: 520MB/s e Gravação: 450MB/s](https://www.kabum.com.br/produto/105015/ssd-240-gb-adata-su650-sata-leitura-520mb-s-e-gravacao-450mb-s-asu650ss-240gt-r)
 
